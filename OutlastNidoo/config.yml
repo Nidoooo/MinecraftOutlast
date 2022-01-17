@@ -1,0 +1,14 @@
+# Onlinezeit plugin by Xitecraft
+# 
+# Variablen:
+# Online Sekunden: %sekunden%
+# Online Minuten: %minuten%
+# Online Stunden: %stunden%
+# Spielername: %spieler% - Zeigt den Spielername an, der bei /onlinezeit [spieler] angegeben wurde.
+# 
+# Achtung: Ihr koennt die config nur aendern, wenn der Server gestoppt ist! Ansonsten werden keine aenderungen uebernommen!
+
+Config:
+  Onlinezeit: '&bDeine Spielzeit: &c%stunden% &eStunden, &c%minuten% &eMinuten, &c%sekunden% &eSekunden'
+  OnlinezeitOther: '&b%spieler% Spielzeit: &c%stunden% &eStunden, &c%minuten% &eMinuten, &c%sekunden% &eSekunden'
+
